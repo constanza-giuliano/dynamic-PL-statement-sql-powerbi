@@ -1,0 +1,4 @@
+CALCULATE(
+	[1. ER GENERICO % / bruto],
+	'Fact_Expenses'[Rubro Cuenta Contable] IN {  "Ventas"}
+)
