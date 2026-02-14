@@ -38,7 +38,7 @@ All numeric values shown in the screenshots were modified and anonymized, and in
 ![P&L Analysis](images/P&Lstatement.png)
 
 ### Dynamic Logic (Currency, Units, Averages)
-![P&L Dynamic](images/$and%.png)
+![P&L Dynamic](images/Currencyandperc.png)
 
 ### Dynamic Logic (Currency, Units, Averages)
 ![P&L Dynamic](images/usdavg.png)
