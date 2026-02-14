@@ -1,0 +1,5 @@
+% Gross =
+CALCULATE(
+    [Totalamount] /
+    Fact_Expenses[Gross Sales Total]
+) * 100
