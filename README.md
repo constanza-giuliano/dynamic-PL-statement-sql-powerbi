@@ -1,6 +1,6 @@
 # Dynamic P&L Statement – SQL - Power BI
 
-Interactive **P&L Statement** built in **Power BI** with dynamic financial logic, including **gross vs net analysis**, **ARS/USD currency switching**, **$ / % views**, and **total vs average periods**. Designed with reusable **DAX measures**, secure data handling, and a focus on accurate **financial analysis** and business decision-making.
+Interactive **P&L Statement** built in **SQL** and **Power BI** with dynamic financial logic, including **gross vs net analysis**, **ARS/USD currency switching**, **$ / % views**, and **total vs average periods**. Designed with reusable **DAX measures**, secure data handling, and a focus on accurate **financial analysis** and business decision-making.
 
 ## Context
 A construction company required a flexible P&L dashboard to analyze financial performance across different periods, currencies, and aggregation levels. The solution needed to support management analysis while maintaining strong control over data accuracy and integrity.
@@ -32,14 +32,14 @@ All numeric values shown in the screenshots were modified and anonymized, and in
 ## Screenshots
 
 ### P&L Overview
-![P&L Overview](overview.png)
+![P&L Overview](images/overview.png)
 
 ### Financial Analysis
-![P&L Analysis](globalview.png)
+![P&L Analysis](images/P&Lstatement..png)
 
 ### Dynamic Logic (Currency, Units, Averages)
-![P&L Dynamic](arg.png)
+![P&L Dynamic](images/$and%.png)
 
 ### Dynamic Logic (Currency, Units, Averages)
-![P&L Dynamic](usdtotalaverage.png)
+![P&L Dynamic](images/usdavg.png)
 
