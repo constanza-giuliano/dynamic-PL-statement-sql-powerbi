@@ -58,10 +58,10 @@ All numeric values shown in the screenshots were modified and anonymized, and in
 
 ## Screenshots
 
-### P&L Overview
+### Financial Analysis
 ![P&L Overview](images/overview.png)
 
-### Financial Analysis
+### P&L Overview
 ![P&L Analysis](images/P&Lstatement.png) 
 
 ### Dynamic Logic (Currency, Units, Averages)
