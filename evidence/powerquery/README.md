@@ -49,6 +49,8 @@ To enable accurate reporting and prevent duplication:
 ---
 
 ## Key Applied Steps (Power Query)
-/Spanish descriptions/
+
+Spanish Version
+
 ![Applied Steps](evidence/powerquery/6.fact-expenses.png)
 
