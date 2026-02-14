@@ -52,5 +52,5 @@ To enable accurate reporting and prevent duplication:
 
 Spanish Version
 
-![Applied Steps](dynamic-PL-statement-sql-powerbi/evidence/powerquery/6.fact-expenses.png)
+![Applied Steps](evidence/powerquery/6.fact-expenses.png)
 
