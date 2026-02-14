@@ -1,0 +1,7 @@
+1. Totalamount = (([Incomes ($)] + [Expenses ($)]))
+2. Incomes ($) = CALCULATE(SUM(Fact_Expenses[Amount]),Fact_Expenses[category]="Incomes")
+3.Expenses ($) = CALCULATE(SUM(Fact_Expenses[Amount]),Fact_Expenses[category]="Expenses")
+
+1. Totalamount = (([Incomes (USD)] + [Expenses (USD)]))
+2. Incomes (USD) = CALCULATE(SUM(Fact_Expenses[Amountusd]),Fact_Expenses[category]="Incomes")
+3.Expenses (USD) = CALCULATE(SUM(Fact_Expenses[Amountusd]),Fact_Expenses[category]="Expenses")
